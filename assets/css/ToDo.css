@@ -1,0 +1,29 @@
+
+
+#TodoList{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%, -50%);
+}
+
+#AsIs{
+    float:left;
+    margin-right:1px;
+    
+}
+
+#ToBe{
+    float:right;
+    margin-left:1px;
+
+}
+
+ul{
+    list-style: circle;
+    min-width: 300px;
+}
+
+ul li{
+    padding: 5px 10px;
+}
